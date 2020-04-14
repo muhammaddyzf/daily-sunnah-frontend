@@ -1,4 +1,4 @@
-# mevnexample
+# dailysunnah
 
 ## Steps to use code
 1. Clone the repository.
